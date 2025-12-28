@@ -63,4 +63,4 @@ Result: Returns JSON path reconstructed via backtracking.
 
 📝 License
 
-MIT License. Made by [Your Name].
+MIT License. Made by abdullah al fahim.
